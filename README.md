@@ -1,7 +1,6 @@
 # MultiplayerPlayground
 My first attempt at a multiplayer game using sockets, written entirely using the Java graphics object.
 
-=========================
 CONFIGURING A SESSION:
 =========================
 1. Open the application.
@@ -11,7 +10,6 @@ CONFIGURING A SESSION:
 
 Note. In order for the game to operate properly, one server must be running before any non-server clients attempt to connect.
 
-=========================
 CONTROLS:
 =========================
 ~                 - Change your player color.
@@ -21,7 +19,6 @@ LMB               - Fire towards your mouse cursor.
 
 F1                - Starts the game. (Server host only.)
 
-=========================
 HOSTING A SERVER
 =========================
 In order to host a server, the server host must open a port on their router, and use that port when initially configuring the session. This is only required if you are not playing on a LAN connection.
