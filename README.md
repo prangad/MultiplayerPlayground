@@ -13,9 +13,9 @@ Note. In order for the game to operate properly, one server must be running befo
 CONTROLS:
 =========================
 ~                 - Change your player color.
-W, A, S, D        - Basic movement.
-LMB               - Fire towards your mouse cursor.
-1, 2, 3, 4, 5, 6  - Weapon selection.
+\nW, A, S, D        - Basic movement.
+\nLMB               - Fire towards your mouse cursor.
+\n1, 2, 3, 4, 5, 6  - Weapon selection.
 
 F1                - Starts the game. (Server host only.)
 
