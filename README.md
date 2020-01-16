@@ -19,7 +19,7 @@ LMB               - Fire towards your mouse cursor.
 
 F1                - Starts the game. (Server host only.)
 
-HOSTING A SERVER
+HOSTING A SERVER:
 =========================
 In order to host a server, the server host must open a port on their router, and use that port when initially configuring the session. This is only required if you are not playing on a LAN connection.
 Clients must connect to the host using the port they provided, as well as the host's public IP address. (Ex. 127.0.0.1:1331)
